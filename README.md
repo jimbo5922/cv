@@ -51,7 +51,7 @@ Docker | nginx | unicorn | Webpack | SASS
 
 ## 主な業務経歴
 
-### 自社イベントページの作成【HTML/CSS/PHP/WordPress】(2020年)
+### 自社イベントページの作成【HTML/SCSS/PHP/WordPress】(2020年)
 
 【概要】自社のウェブセミナーイベント告知用のホームページを作成。
 
