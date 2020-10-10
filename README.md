@@ -55,8 +55,8 @@ Docker | nginx | unicorn | Webpack | SASS
 
 【概要】自社のウェブセミナーイベント告知用のホームページを作成。
 
-【担当業務】figmaを活用してのデザイン、HTML/SASSを使用したwordpressテンプレートの作成、filezillaを使用してのローンチを担当。
+【担当業務】figmaを活用してのデザイン、HTML/SCSSを使用したwordpressテンプレートの作成、filezillaを使用してのローンチを担当。
 
 - デザインツールfigmaを使用してデザイン作成（デザイン案のブラッシュアップ及び微修正）
-- PHPファイル、SASSを使用して実装
+- PHPファイル、SCSSを使用して実装
 - filezillaを使用してホームページのリリース作業
