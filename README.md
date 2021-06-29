@@ -39,7 +39,7 @@ VPC | EC2 | ECS
 
 ### SaaS/PaaS
 
-GitHub | CircleCI
+GitHub
 
 ### その他
 
