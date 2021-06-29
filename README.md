@@ -45,8 +45,6 @@ GitHub
 
 Docker | nginx | unicorn | Webpack | SASS
 
-## バリューを発揮しやすい業務
-
 ## 主な業務経歴
 
 ### 自社イベントページの作成【HTML/SCSS/PHP/WordPress】(2020年)
